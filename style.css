@@ -1,0 +1,13 @@
+body{
+    background-color: turquoise;
+}
+
+div{
+    height: 100vh;
+    color: violet;
+    font-size: 36px;
+}
+h1{
+    text-transform: uppercase;
+    text-align: center;
+}
