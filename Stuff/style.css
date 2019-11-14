@@ -1,0 +1,17 @@
+body{
+background-color: blue;
+}
+
+div{
+    height: 100vh;
+    color: turquoise;
+    font-family:'Tomorrow', sans-serif;
+    font-size: 36px;
+    text-align: center;
+    background-image: linear-gradient(to bottom right, rgba(25, 0, 255,.5), rgba(255, 251, 0,.5)), 
+    url(computer.jpg);
+    background-size: cover;
+}
+h1{
+    text-transform: uppercase;
+}
