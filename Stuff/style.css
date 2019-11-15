@@ -15,3 +15,11 @@ div{
 h1{
     text-transform: uppercase;
 }
+
+ul{
+    list-style-type: none;
+}
+
+h2{
+    filter: contrast(175);
+}
